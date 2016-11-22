@@ -7,11 +7,9 @@ The prototype implementation of ecell4 ODENetworkModel serialization
 * dill (You can install it through `pip install dill`)
 
 ## Try
-'''
 
 python ode_simulator.py > run_1.log
 
 python ode_simulator_load.py > run_2.log
 
-'''
 
